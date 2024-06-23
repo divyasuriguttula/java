@@ -2,7 +2,7 @@
 // Java program for the above approach
 import java.util.Scanner;
  
-public class task1 {
+public class number {
  
     // Function that implements the
     // number guessing game
